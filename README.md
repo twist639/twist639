@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
-# *i'm twist*
-i'm a very young guy and i love programming
+## *i'm twist*
+i'm a very young boy and i love programming
 i made this account for use vs code so i don't think i will make repositories
 but i like github so i made an account
 
